@@ -7,18 +7,26 @@ This app has  two view controller scenes , Map View which Allows the user to dro
 # Requirements:
 
 1. Long press on any point on the map to place a pin.
-2. Press the pin then press the poped up latitude/longitude view in order to access photo album of that pin.
-3. The app will then download a set of photos from Flickr associated with the coordinations of the pin and present it to the user.
-4.  Pressing "New Collection" button at the up-right corner will download new set of photos.
-5.  Single touch on any photo to delete it.
-6. Long touch on any photo to save or share the photo.
+![Screenshot](Screenshots/image0.PNG)
 
-![image](/Screenshots/image0.PNG)
+2. Press the pin then press the poped up latitude/longitude view in order to access photo album of that pin.
 ![Screenshot](Screenshots/image1.PNG)
+
+3. The app will then download a set of photos from Flickr associated with the coordinations of the pin and present it to the user.
+![Screenshot](Screenshots/image3.PNG)
+
+4.  Pressing "New Collection" button at the up-right corner will download new set of photos.
+![Screenshot](Screenshots/image4.PNG)
+
+5. while fetching the photo from the server  a text will show up as the following 
 ![Screenshot](Screenshots/image2.PNG)
-![Screenshot](Screenshots/image3.PNG?raw=true)
-![Screenshot](Screenshots/image4.PNG?raw=true)
-![Screenshot](Screenshots/image5.PNG?raw=true)
+
+6. in case if any network proplem an alert will pop up with a text " please connect to the internet and try agian"
+![Screenshot](Screenshots/image5.PNG)
+
+
+7.  Single touch on any photo to delete it.
+8. Long touch on any photo to save or share the photo.
 
 
 
