@@ -14,11 +14,11 @@ This app has  two view controller scenes , Map View which Allows the user to dro
 6. Long touch on any photo to save or share the photo.
 
 ![Screenshot](/Screenshots/image0.PNG?raw=true)
-![Screenshot](Screenshots/image1.PNG)
-![Screenshot](Screenshots/image2.PNG)
-![Screenshot](Screenshots/image3.PNG)
-![Screenshot](Screenshots/image4.PNG)
-![Screenshot](Screenshots/image5.PNG)
+![Screenshot](Screenshots/image1.PNG?raw=true)
+![Screenshot](Screenshots/image2.PNG?raw=true)
+![Screenshot](Screenshots/image3.PNG?raw=true)
+![Screenshot](Screenshots/image4.PNG?raw=true)
+![Screenshot](Screenshots/image5.PNG?raw=true)
 
 
 
