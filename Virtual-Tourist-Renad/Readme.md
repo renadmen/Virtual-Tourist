@@ -13,8 +13,7 @@ This app has  two view controller scenes , Map View which Allows the user to dro
 5.  Single touch on any photo to delete it.
 6. Long touch on any photo to save or share the photo.
 
-![image](/Screenshots/image0.PNG)
-![Screenshot](Screenshots/image1.PNG?raw=true)
+![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)![Screenshot](Screenshots/image1.PNG?raw=true)
 ![Screenshot](Screenshots/image2.PNG?raw=true)
 ![Screenshot](Screenshots/image3.PNG?raw=true)
 ![Screenshot](Screenshots/image4.PNG?raw=true)
