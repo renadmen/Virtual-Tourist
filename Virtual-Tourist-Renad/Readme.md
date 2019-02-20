@@ -13,11 +13,9 @@ This app has  two view controller scenes , Map View which Allows the user to dro
 5.  Single touch on any photo to delete it.
 6. Long touch on any photo to save or share the photo.
 
-![image](
-        Virtual-Tourist/Virtual-Tourist-Renad/Screenshots/image0.png
-      )
-![Screenshot](Screenshots/image1.PNG?raw=true)
-![Screenshot](Screenshots/image2.PNG?raw=true)
+![image](/Screenshots/image0.PNG)
+![Screenshot](Screenshots/image1.PNG)
+![Screenshot](Screenshots/image2.PNG)
 ![Screenshot](Screenshots/image3.PNG?raw=true)
 ![Screenshot](Screenshots/image4.PNG?raw=true)
 ![Screenshot](Screenshots/image5.PNG?raw=true)
